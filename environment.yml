@@ -11,6 +11,5 @@ dependencies:
     - numba
     - jupyter
     - mayavi
-    - seaborn
     - pip:
         - https://github.com/fatiando/fatiando/archive/master.zip
