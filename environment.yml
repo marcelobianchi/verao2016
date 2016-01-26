@@ -1,0 +1,15 @@
+name: iag
+dependencies:
+    - python=2.7
+    - pip
+    - future
+    - numpy
+    - scipy
+    - matplotlib
+    - basemap
+    - pillow
+    - numba
+    - jupyter
+    - mayavi
+    - pip:
+        - https://github.com/fatiando/fatiando/archive/master.zip
