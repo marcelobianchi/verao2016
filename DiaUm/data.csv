@@ -1,0 +1,10 @@
+# This is a CSV text file containing data !
+# this is a comment line
+# this is a comment line
+ID,X,Y
+001,1,1
+002,2,4
+003,3,9
+004,4,16
+005,5,25
+006,6,36
