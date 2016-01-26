@@ -1,4 +1,4 @@
-# IGRF: inc = -19.5 dec = -18.5
+# IGRF: inc, dec = -19.5, -18.5
 # nx, ny = 50, 50
 # x (norte)   y (lest)   z (baixo)  anomalia_magnetica
 8209015.37000 473273.60000 -815.03459 85.94915
