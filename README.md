@@ -1,7 +1,10 @@
 # Curso de Python - Escola de verão do IAG - 2016
 
+**Professores:**
+[Marcelo Bianchi](https://github.com/marcelobianchi),
+Victor Sacek
+e [Leonardo Uieda](http://www.leouieda.com/)
 
-**Professores:** Marcelo Bianchi, Victor Sacek e Leonardo Uieda
 
 ## Leitura recomendada
 
@@ -11,6 +14,18 @@ Scipy Lecture Notes: http://www.scipy-lectures.org
 
 Pilgrim, M. (2004), Dive Into Python, Apress, Berkeley, CA : New York.
 [[disponível online](http://www.diveintopython.net/)]
+
+
+## Rodando os notebooks online
+
+Use o botão abaixo para abrir os notebooks do curso
+usando o [Binder](http://mybinder.org/):
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/marcelobianchi/verao2016)
+
+Você poderá rodar os notebooks e editá-los sem instalar nada no seu
+omputador.
+Porém, seu trabalho **não ficará salvo**!
 
 
 ## Instalando no seu computador
